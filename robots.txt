@@ -34,6 +34,6 @@ User-agent: SemrushBot
 Disallow: /
 
 User-agent: AhrefsBot
-Crawl-delay: 8
+Crawl-delay: 10
 
 Sitemap: https://alto-hospicio.geotecnia1.biz/sitemap.xml
